@@ -1,0 +1,6 @@
+package p412Beep;
+
+import java.awt.event.ActionEvent;
+public class MyClass {
+
+}

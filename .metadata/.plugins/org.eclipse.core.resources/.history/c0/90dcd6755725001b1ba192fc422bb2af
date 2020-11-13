@@ -1,0 +1,7 @@
+package autoDriving;
+
+public class AutoDriver {
+	public static void main(String[] args) {
+		Iauto drivingTarget = new Car();
+	}
+}

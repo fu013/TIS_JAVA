@@ -1,0 +1,5 @@
+package autoDriving;
+
+public class Car implements IAuto{
+
+}

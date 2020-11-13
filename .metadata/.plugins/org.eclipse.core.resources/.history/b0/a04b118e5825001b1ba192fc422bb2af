@@ -1,0 +1,35 @@
+package autoDriving;
+
+public class Car implements IAuto {
+
+	@Override
+	public void start() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void turnOff() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void stop() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public int setSpeed(int speed) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int turn(int degree) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

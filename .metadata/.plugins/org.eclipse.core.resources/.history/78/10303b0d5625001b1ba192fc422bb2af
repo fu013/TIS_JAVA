@@ -1,0 +1,8 @@
+package autoDriving;
+
+public interface IAuto {
+	public void start();	
+	public void stop();
+	
+	public int setSpeed();
+}
