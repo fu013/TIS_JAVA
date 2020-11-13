@@ -1,0 +1,20 @@
+package p674_ColApi;
+
+import java.util.Date;
+
+public class TestMeta {
+
+	public static void main(String[] args) {
+		Party Party = new Party("name", new Date());
+		Field[] fields = Party.class.getDeclaredFields();
+		for (Field field : fields) {
+			try { 
+				field.setAccessible(true);
+				System.out.println(Sysout);
+			} catch() {
+				
+			}
+		}
+	}
+
+}

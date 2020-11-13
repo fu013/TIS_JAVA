@@ -1,0 +1,9 @@
+package p674_ColApi;
+
+public class TestMeta {
+
+	public static void main(String[] args) {
+		Party Party = new Party("name", new Date());
+	}
+
+}

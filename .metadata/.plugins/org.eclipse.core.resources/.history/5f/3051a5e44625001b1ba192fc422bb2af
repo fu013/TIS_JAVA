@@ -1,0 +1,7 @@
+package control;
+
+public class 시나리오기반테스트 {
+	public static void main(String[] args) {
+		
+	}
+}
