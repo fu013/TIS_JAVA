@@ -6,12 +6,13 @@ public class 별찍기 {
 		
 		// 계단형별찍기
 		for(int i=1; i <= 10; i++) {
-		    for(int j=1; j <= i; j++ ) {
+		    for(int j=1; j <= i; j++ ) { 
 		        System.out.print("*");
 		    }
 		    System.out.println();
 		}
 		
+		// 공백 세칸 가로로 출력
 		System.out.println();
 		System.out.println();
 		System.out.println();
@@ -42,6 +43,8 @@ public class 별찍기 {
 		        System.out.println(); 
 		        // 공백과 별을 모두 찍었으면 줄바꿈을 한다
 		}
+		
+		// 공백 세칸 가로로 출력
 		System.out.println();
 		System.out.println();
 		System.out.println();
@@ -59,6 +62,7 @@ public class 별찍기 {
 		    System.out.println();
 		}
 		
+		// 공백 세칸 가로로 출력
 		System.out.println();
 		System.out.println();
 		System.out.println();

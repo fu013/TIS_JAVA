@@ -1,7 +1,5 @@
 package Extends;
 import java.util.Scanner; //import 해야한다
-
-
 		 
 		public class 구구단 {
 		 
